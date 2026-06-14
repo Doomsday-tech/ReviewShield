@@ -101,7 +101,7 @@ This will:
 streamlit run app.py
 ```
 
-Open [http://localhost:8501](http://localhost:8501) in your browser.
+Open [https://reviewshield.streamlit.app/) in your browser.
 
 > **Tip:** You can also train directly from the UI by clicking **Train Model Now** on first launch.
 
