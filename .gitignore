@@ -4,11 +4,10 @@ __pycache__/
 venv/
 .env
 
-model.pkl
+
 
 data/
 *.csv
 
 .streamlit/
 
-models/
