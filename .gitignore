@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+model.pkl
+
+data/
+*.csv
+
+.streamlit/
+
+models/
