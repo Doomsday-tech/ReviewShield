@@ -187,7 +187,3 @@ The model with the higher **F1 score** on the test split is saved automatically.
 | "BEST PRODUCT EVER!!! I told EVERYONE to buy this immediately!!!" | 🚨 Fake |
 
 ---
-
-## License
-
-MIT — free to use, modify, and distribute.
